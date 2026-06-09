@@ -47,7 +47,12 @@ This document outlines the working procedure for the joint initiative by ISO/IEC
 - Comment resolution will occur only within the joint WG. It is expected that WG10/DCP accept the decision of the joint WG on those comments, i.e. the members who comment will participate within the joint WG (where the decision is made as per consensus process below).
 - It is assumed that in the medium term, all relevant people will be participating in the joint WG and this process can be simplified.
 
-<Figure 1>
+<p align="center">
+  <img width="396" height="548" alt="image" src="https://github.com/user-attachments/assets/401380a6-b3ae-499f-bc33-466d9cd67913" />
+  <br>
+  <br>
+  <em>Figure 1: Specification Development Process Diagram.</em>
+</p>
 
 ## Decisions
 - General: All decisions should be made based on group consensus and made in meetings. Important decisions (including the decision to publish) must be tracked in a GitHub issue.
